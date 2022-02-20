@@ -1,5 +1,14 @@
 # Bitcoin Core Release Candidate Testing
 
+
+-------------------------
+### Run Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 Automated tests and manual instructions to test release candidates for Bitcoin Core.
 
 It’s up to all of us to make sure that Bitcoin is the best it can be. It takes a lot of work to ensure that every release safely bridges us to the future. We need your eyes (and your computer) to make sure that 0.21 is as good as it can be. Come lend a hand!
